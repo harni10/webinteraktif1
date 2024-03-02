@@ -17,7 +17,7 @@ def page_1():
     st.write('Halaman ini digunakan untuk Intro')
 def page_2():
     st.title("Halaman 2")
-    st.write('Halaman ini digunakan untuk  Menampilkan Youtube')
+    st.write('Halaman ini digunakan untuk  Menampilkan Youtube video')
 def page_3():
     st.title("Halaman 3")
     st.write('Halaman ini digunakan untuk Menampilkan Rumus Matematika')
